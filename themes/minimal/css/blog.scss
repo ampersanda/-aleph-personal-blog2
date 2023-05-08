@@ -1,4 +1,39 @@
-@import "typography";
+:root {
+  --bg-color: #010101;
+  --fg-color: #DADADA;
+  --fg-color-grey: #808080;
+  --tint-bg-color: #FFFFFF
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: "DM Sans", sans-serif;
+  background-color: var(--bg-color);
+  color: var(--fg-color);
+  line-height: 1.2;
+
+  overflow-x: hidden;
+
+  max-width: 62rem;
+  margin: 0 auto 3rem;
+  padding: 0 3rem;
+}
+
+a {
+  color: inherit;
+}
+
+blockquote p {
+  margin: 0;
+}
+
+code, kbd, samp {
+  font-family: 'Inconsolata', monospace;
+}
+
 
 #gallery {
   > p {
@@ -26,6 +61,11 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding-top: 3rem;
+  position: sticky;
+  top: 0;
+  mix-blend-mode: difference;
+  z-index: 1;
 
   a {
     display: flex;
@@ -147,7 +187,7 @@ hr {
 
 @media (max-width: 776px) {
   body {
-    margin: 2rem auto;
+    margin: 0 auto 2rem;
     padding: 0 2rem;
   }
 
@@ -155,6 +195,7 @@ hr {
     justify-content: flex-start;
     overflow: auto;
     max-width: 100%;
+    padding-top: 2rem;
 
     > * {
       min-width: 13rem;

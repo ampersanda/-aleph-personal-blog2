@@ -17,7 +17,7 @@ body {
   line-height: 1.2;
   overflow-x: hidden;
   max-width: 62rem;
-  margin: 3rem auto;
+  margin: 0 auto 3rem;
   padding: 0 3rem;
 }
 
@@ -55,6 +55,11 @@ code, kbd, samp {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding-top: 3rem;
+  position: sticky;
+  top: 0;
+  mix-blend-mode: difference;
+  z-index: 1;
 }
 #nav a {
   display: flex;
@@ -154,13 +159,14 @@ hr:after, hr::after {
 }
 @media (max-width: 776px) {
   body {
-    margin: 2rem auto;
+    margin: 0 auto 2rem;
     padding: 0 2rem;
   }
   #nav {
     justify-content: flex-start;
     overflow: auto;
     max-width: 100%;
+    padding-top: 2rem;
   }
   #nav > * {
     min-width: 13rem;
