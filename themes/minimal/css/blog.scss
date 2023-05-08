@@ -173,8 +173,13 @@ hr {
   }
 
   #gallery {
+    > p {
+      grid-template-columns: 1fr;
+    }
+
     img {
-      max-height: calc(38vw - 4rem);
+      filter: brightness(1);
+      max-height: none;
     }
   }
 }

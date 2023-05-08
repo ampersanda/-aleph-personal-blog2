@@ -172,8 +172,12 @@ hr:after, hr::after {
     margin-left: 0 !important;
     width: 100% !important;
   }
+  #gallery > p {
+    grid-template-columns: 1fr;
+  }
   #gallery img {
-    max-height: calc(38vw - 4rem);
+    filter: brightness(1);
+    max-height: none;
   }
 }
 
