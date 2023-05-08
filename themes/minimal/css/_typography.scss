@@ -1,0 +1,45 @@
+:root {
+  --bg-color: #010101;
+  --fg-color: #DADADA;
+  --fg-color-grey: #808080;
+  --tint-bg-color: #FFFFFF
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: "DM Sans", sans-serif;
+  background-color: var(--bg-color);
+  color: var(--fg-color);
+  line-height: 1.2;
+
+  max-width: 62rem;
+  margin: 3rem auto;
+  padding: 0 3rem;
+}
+
+a {
+  color: inherit;
+}
+
+blockquote p {
+  margin: 0;
+}
+
+code, kbd, samp {
+  font-family: 'Inconsolata', monospace;
+}
+
+#gallery {
+  .folder {
+    display: flex;
+    padding-bottom: 4rem;
+    border-bottom: 1px rgba(128, 128, 128, 0.3) solid;
+
+    &:first-child ~ & {
+      margin-top: 1rem;
+    }
+  }
+}

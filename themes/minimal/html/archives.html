@@ -1,0 +1,23 @@
+{% extends "/html/base.html" %}
+{%block subtitle %} → Archives{% endblock %}
+{% block content %}
+
+<div id="gallery">
+    {% for group in groups %}
+    <div class="folder">
+        <div class="folder-name">
+            {{group.group}}
+        </div>
+        <div class="folder-items">
+            {% for post in group.posts %}
+            <div class="folder-item">
+                <a href="{{post.uri}}"><strong>{{post.title}}</strong></a>
+            </div>
+            {% endfor %}
+        </div>
+
+    </div>
+    {% endfor %}
+
+</div>
+{% endblock %}

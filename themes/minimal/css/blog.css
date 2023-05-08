@@ -1,0 +1,132 @@
+@charset "UTF-8";
+:root {
+  --bg-color: #010101;
+  --fg-color: #DADADA;
+  --fg-color-grey: #808080;
+  --tint-bg-color: #FFFFFF ;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: "DM Sans", sans-serif;
+  background-color: var(--bg-color);
+  color: var(--fg-color);
+  line-height: 1.2;
+  max-width: 62rem;
+  margin: 3rem auto;
+  padding: 0 3rem;
+}
+
+a {
+  color: inherit;
+}
+
+blockquote p {
+  margin: 0;
+}
+
+code, kbd, samp {
+  font-family: "Inconsolata", monospace;
+}
+
+#gallery .folder {
+  display: flex;
+  padding-bottom: 4rem;
+  border-bottom: 1px rgba(128, 128, 128, 0.3) solid;
+}
+#gallery .folder:first-child ~ #gallery .folder {
+  margin-top: 1rem;
+}
+
+#nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#nav a {
+  display: flex;
+  color: inherit;
+  text-decoration: none;
+  align-items: center;
+}
+#nav #logo img {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+}
+#nav .text {
+  margin-left: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+#nav .text:before, #nav .text::before {
+  position: absolute;
+  content: "";
+  background-color: var(--tint-bg-color);
+  opacity: 0;
+  width: calc(100% + 1em);
+  height: calc(100% + 0.5em);
+  left: -0.5em;
+  top: -0.25em;
+  border-radius: 4px;
+  transition: opacity 150ms;
+}
+#nav .text:hover:before, #nav .text:hover::before {
+  opacity: 0.15;
+}
+#nav .text-subtitle {
+  color: var(--fg-color-grey);
+}
+
+hr {
+  border: none;
+  display: block;
+  margin: 1rem 0;
+  height: 1rem;
+  content: "·";
+  position: relative;
+}
+hr:before, hr::before {
+  position: absolute;
+  content: "·";
+  left: 50%;
+  transform: translateX(calc(-50% - 1rem));
+}
+hr:after, hr::after {
+  position: absolute;
+  content: "·";
+  left: 50%;
+  transform: translateX(calc(-50% + 1rem));
+}
+
+#main {
+  margin: 6rem 0 1rem;
+  line-height: 1.4;
+}
+
+.folder-name {
+  min-width: 12rem;
+  color: var(--fg-color-grey);
+}
+.folder-item {
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+}
+.folder-item a {
+  text-decoration: none;
+}
+
+#gallery .folder:first-child ~ .folder {
+  margin-top: 2rem;
+}
+
+.color--gray {
+  color: var(--fg-color-grey);
+}
+
+/*# sourceMappingURL=blog.css.map */
