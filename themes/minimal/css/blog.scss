@@ -197,8 +197,12 @@ hr {
     max-width: 100%;
     padding-top: 2rem;
 
-    > * {
+    > *:first-child {
       min-width: 13rem;
+
+      & ~ * {
+        min-width: 9rem;
+      }
     }
   }
 
