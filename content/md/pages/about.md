@@ -22,9 +22,9 @@ I also love listening classical music and pop songs.
 UI stuff is neat, so I enjoy doing it. 
 
 I used to work as a Front-End developer in most of my career. Then, not too long ago, I switched career to Mobile Developer.
-While switching out my career, I did things like, creating/co-creating local programming community like [AndroidDev Surabaya](#), [SurabayaJS](#), [Flutter Jakarta](#) and also volunteered on [Google Developer Group Surabaya](#). On the meantime, I taught some native Android (Java and Kotlin) in a collaboration with __Kemkominfo__ (Ministry of Communications and Informatics). Then I completely snapped to mobile development since.
+While switching out my career, I did things like, creating/co-creating local programming community like [AndroidDev Surabaya](https://www.instagram.com/androiddevsurabaya/), [SurabayaJS](https://surabayajs.org/), [Flutter Jakarta]() and also volunteered on [Google Developer Group Surabaya](https://www.meetup.com/flutter-jakarta/). On the meantime, I taught some native Android (Java and Kotlin) in a collaboration with __Kemkominfo__ (Ministry of Communications and Informatics) called **SMKCoding**. Then I completely snapped to mobile development since.
 
-Flutter was the new "drug" to me. I enjoy doing it until now.
+Flutter was the new addiction to me. I enjoy doing it until now.
 
 I am, now, also exploring new Clojure → Dart things that I excited to, [ClojureDart](https://github.com/Tensegritics/ClojureDart) by.
 
@@ -34,4 +34,10 @@ Made simple utility from it and for it to. Please check [cljds](https://pub.dev/
 
 ## Current Job
 
-I am, currently, working on [Wahyoo](http://wahyoo.com/) as Senior and Lead Flutter Engineer. 
+I am, currently, working on [Wahyoo](http://wahyoo.com/) as Senior and Lead Flutter Engineer.
+
+---
+
+## Socials
+
+[Twitter](https://twitter.com/ampersanda) · [Instagram](https://instagram.com/ampersanda.h) · [Github](https://github.com/ampersanda) · [LinkedIn](https://www.linkedin.com/in/ampersanda/)
