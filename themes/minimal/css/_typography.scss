@@ -33,15 +33,3 @@ blockquote p {
 code, kbd, samp {
   font-family: 'Inconsolata', monospace;
 }
-
-#gallery {
-  .folder {
-    display: flex;
-    padding-bottom: 4rem;
-    border-bottom: 1px rgba(128, 128, 128, 0.3) solid;
-
-    &:first-child ~ & {
-      margin-top: 1rem;
-    }
-  }
-}
