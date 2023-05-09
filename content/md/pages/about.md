@@ -38,6 +38,10 @@ I am, currently, working on [Wahyoo](http://wahyoo.com/) as Senior and Lead Flut
 
 ---
 
+## Selling stuff
+
+I sell preloved stuff on [Tokopedia](https://www.tokopedia.com/ampersanda) · [Carousell](https://id.carousell.com/u/616d70657273616e6461/) 
+
 ## Socials
 
 [Twitter](https://twitter.com/ampersanda) · [Instagram](https://instagram.com/ampersanda.h) · [Github](https://github.com/ampersanda) · [LinkedIn](https://www.linkedin.com/in/ampersanda/)

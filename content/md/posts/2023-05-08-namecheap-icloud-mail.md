@@ -1,0 +1,9 @@
+{:title "cljds - ClojureDart project generator"
+ :layout :post
+ :tags  ["flutter" "clojure" "dart" "cljds"]}
+
+# what
+
+[pub][1]
+
+[1]: https://pub.dev/packages/cljds
