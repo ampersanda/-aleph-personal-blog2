@@ -9,7 +9,7 @@ A human being who loves to spend his time doing [analog photography](/pages/gall
 
 ## Music Taste
 
-I listen to vary of music genre. Most notable artists that I like are [Ichiko Aoba](https://www.youtube.com/@ichikoaoba-hermine) and [Sia](https://www.youtube.com/channel/UCN9HPn2fq-NL8M5_kp4RWZQ). Here two songs from them:
+I listen to vary of music genre. Most notable artists that I like are [Ichiko Aoba](https://www.youtube.com/@ichikoaoba-hermine) and [Sia](https://www.youtube.com/channel/UCN9HPn2fq-NL8M5_kp4RWZQ). Here are two songs from them:
 
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="200" style="width:calc(50% - .5rem);overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/id/album/dressed-in-black/882945378?i=882945397"></iframe>
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="200" style="margin-left: 1rem;width:calc(50% - .5rem);overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/id/album/kikai-jikake-no-uchu-gift-live-ver/1505710246?i=1505710886"></iframe>
