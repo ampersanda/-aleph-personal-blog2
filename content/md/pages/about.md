@@ -26,7 +26,7 @@ While switching out my career, I did things like, creating/co-creating local pro
 
 Flutter was the new addiction to me. I enjoy doing it until now.
 
-I am, now, also exploring new Clojure → Dart things that I excited to, [ClojureDart](https://github.com/Tensegritics/ClojureDart) by.
+I am, now, also exploring new Clojure → Dart things that I excited to, [ClojureDart](https://github.com/Tensegritics/ClojureDart).
 
 Made simple utility from it and for it to. Please check [cljds](https://pub.dev/packages/cljds) out.
 
