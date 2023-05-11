@@ -5,15 +5,15 @@
 
 <div id="gallery">
 
-![Image of me standing](/img/cira-lucky-1.png)
-![Blok M](/img/bw-blok-m-1.jpeg)
-![Image of me](/img/bw-lucky-1.jpeg)
-![Gavin](/img/gavin-1.jpeg)
-![Jakarta](/img/jakarta-1.jpeg)
-![MRT](/img/mrt-1.jpeg)
-![MRT](/img/mrt-2.jpeg)
-![Nadhif concert](/img/nadhif-1.jpeg)
-![Surabaya](/img/surabaya-1.jpeg)
+![Image of me standing](/img/analog/cira-lucky-1.png)
+![Blok M](/img/analog/bw-blok-m-1.jpeg)
+![Image of me](/img/analog/bw-lucky-1.jpeg)
+![Gavin](/img/analog/gavin-1.jpeg)
+![Jakarta](/img/analog/jakarta-1.jpeg)
+![MRT](/img/analog/mrt-1.jpeg)
+![MRT](/img/analog/mrt-2.jpeg)
+![Nadhif concert](/img/analog/nadhif-1.jpeg)
+![Surabaya](/img/analog/surabaya-1.jpeg)
 
 
 </div>

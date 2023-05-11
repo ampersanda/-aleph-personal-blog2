@@ -176,6 +176,12 @@ hr {
   color: var(--fg-color-grey);
 }
 
+.post-content {
+  img {
+    width: 100%;
+  }
+}
+
 @media (max-width: 991px) {
   #gallery {
     img {

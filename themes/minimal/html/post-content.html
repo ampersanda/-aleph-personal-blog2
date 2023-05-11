@@ -4,12 +4,12 @@
         <div class="byline">
             <span class="date">{{post.date|date:longDate}}</span>
             {% if post.author %}
-            <span class="author">By: {{post.author}}</span>
+            <span class="author">× {{post.author}}</span>
             {% endif %}
         </div>
     </div>
 </div>
-<div>
+<div class="post-content">
     {% if post.toc %}{{post.toc|safe}}{% endif %}
     {{post.content|safe}}
 </div>
