@@ -11,7 +11,7 @@
         <div class="folder-items">
             {% for post in group.posts %}
             <div class="folder-item">
-                <a href="{{post.uri}}"><strong>{{post.title}}</strong></a>
+                <a href="{{post.uri}}"><strong>{{post.title}}</strong> <span class="color--gray">on {{post.date|date:"MMM dd"}}</span></a>
             </div>
             {% endfor %}
         </div>

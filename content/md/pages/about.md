@@ -7,7 +7,7 @@ A human being who loves to spend his time doing [analog photography](/pages/gall
 
 --- 
 
-## Music Taste
+## Ear Candies
 
 I listen to vary of music genre. Most notable artists that I like are [Ichiko Aoba](https://www.youtube.com/@ichikoaoba-hermine) and [Sia](https://www.youtube.com/channel/UCN9HPn2fq-NL8M5_kp4RWZQ). Here are two songs from them:
 
