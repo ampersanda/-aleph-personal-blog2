@@ -152,6 +152,13 @@ hr:after, hr::after {
   color: var(--fg-color-grey);
 }
 
+.post-content code:not(.hljs) {
+  background: #444;
+  padding: 0.1em 0.3em;
+}
+.post-content code:not(.hljs) .hljs-comment {
+  color: #999;
+}
 .post-content img {
   width: 100%;
 }
@@ -177,6 +184,15 @@ hr:after, hr::after {
   }
   #nav > *:first-child ~ * {
     min-width: 9rem;
+  }
+  .folder {
+    flex-direction: column;
+  }
+  .folder-items {
+    margin-top: 1rem;
+  }
+  .folder-item {
+    margin-left: 0;
   }
   #main {
     margin: 3rem 0 1rem;

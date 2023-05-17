@@ -177,6 +177,15 @@ hr {
 }
 
 .post-content {
+  code:not(.hljs) {
+    background: #444;
+    padding: 0.1em 0.3em;
+
+    .hljs-comment {
+      color: #999;
+    }
+  }
+
   img {
     width: 100%;
   }
@@ -209,6 +218,18 @@ hr {
       & ~ * {
         min-width: 9rem;
       }
+    }
+  }
+
+  .folder {
+    flex-direction: column;
+
+    &-items {
+      margin-top: 1rem;
+    }
+
+    &-item {
+      margin-left: 0;
     }
   }
 
