@@ -1,7 +1,7 @@
 {:title "Look over there - Single"
 :layout :post
 :author "Lucky Pradana"
-:tags  ["poem" "song"]
+:tags  ["poem" "song" "music" "chord"]
 :toc false}
 
 ## Verse 1
