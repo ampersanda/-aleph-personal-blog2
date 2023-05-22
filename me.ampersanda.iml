@@ -6,13 +6,10 @@
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$USER_HOME$/Desktop/me.ampersanda/src">
-      <sourceFolder url="file://$USER_HOME$/Desktop/me.ampersanda/src" isTestSource="false" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
     </content>
-    <content url="file://$USER_HOME$/Desktop/me.ampersanda/test">
-      <sourceFolder url="file://$USER_HOME$/Desktop/me.ampersanda/test" isTestSource="false" />
-    </content>
-    <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Deps: selmer:1.12.31" level="project" />
