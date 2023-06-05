@@ -1,0 +1,37 @@
+{:title "Gratitude Report - Day 1"
+:layout :post
+:author "Lucky Pradana"   
+:tags  ["gratitude" "report"]
+:toc false}
+
+A comeback I'd say! This is the "second" first day I got in in Aleph Labs.
+
+Even tough this morning I got a wrong direction of busway to go to Aleph, but still I got time before 10am. 
+
+The Aleph's onboarding for new employees was quite different than the last time I visited this place. Got free lunch tho! hahaha.
+
+Still saw some faces I recognized like Gamal, Ellisa, mas Tum-Tum and also quite a lot new ones.
+
+Also introduced to my PRDI Flutter team that pretty warm, Josh, Ilham and Arfan.
+
+What a quite day!
+
+
+```text
+Summary:
+
+- Time: 10am - 7pm
+- Status: Normal
+- Tasks: 
+    - Onboarding and PRDI introduction (Completed)
+    - Look through PRDI repositories
+- Plan For Next Day:
+    - Still scanning through and try running PRDI repositories
+    - Note some minor problems to improve PRDI repositories
+- Any Risk/Blocker/Question:
+    - None
+- Leave Planned / Approved:
+    - None
+- Gratitude
+    - Free lunch :)
+``` 
