@@ -1,4 +1,4 @@
-{:title "Gratitude Report - Day 1"
+{:title "Gratitude Journal - Day 1"
 :layout :post
 :author "Lucky Pradana"   
 :tags  ["gratitude" "report"]
