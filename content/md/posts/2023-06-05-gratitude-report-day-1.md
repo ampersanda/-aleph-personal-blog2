@@ -14,8 +14,7 @@ Still saw some faces I recognized like Gamal, Ellisa, mas Tum-Tum and also quite
 
 Also introduced to my PRDI Flutter team that pretty warm, Josh, Ilham and Arfan.
 
-What a quite day!
-
+What a day!
 
 > Summary:
 > - Time: 10am - 7pm
