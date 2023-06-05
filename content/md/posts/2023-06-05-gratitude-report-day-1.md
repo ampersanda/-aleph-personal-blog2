@@ -17,21 +17,18 @@ Also introduced to my PRDI Flutter team that pretty warm, Josh, Ilham and Arfan.
 What a quite day!
 
 
-```text
-Summary:
-
-- Time: 10am - 7pm
-- Status: Normal
-- Tasks: 
-    - Onboarding and PRDI introduction (Completed)
-    - Look through PRDI repositories
-- Plan For Next Day:
-    - Still scanning through and try running PRDI repositories
-    - Note some minor problems to improve PRDI repositories
-- Any Risk/Blocker/Question:
-    - None
-- Leave Planned / Approved:
-    - None
-- Gratitude
-    - Free lunch :)
-``` 
+> Summary:
+> - Time: 10am - 7pm
+> - Status: Normal
+> - Tasks: 
+>   - Onboarding and PRDI introduction (Completed)
+>   - Look through PRDI repositories
+> - Plan For Next Day:
+>     - Still scanning through and try running PRDI repositories
+>     - Note some minor problems to improve PRDI repositories
+> - Any Risk/Blocker/Question:
+>   - None
+> - Leave Planned / Approved:
+>     - None
+> - Gratitude
+>     - Free lunch :)
